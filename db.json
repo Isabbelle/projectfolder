@@ -1,0 +1,277 @@
+{
+    
+    "comp": [
+        {
+            "id": "comp001",
+            "title": "AachenMünchener",
+            "img": "/company-logos/logos1x/de001.png?ver=gz30i",
+            "imgsrcset": "/company-logos/logos1x/de001.png?ver=gz30i 1x, /company-logos/logos2x/de001.png?ver=gz30i 2x, /company-logos/logos3x/de001.png?ver=gz30i 3x"
+        },
+        {
+            "id": "comp002",
+            "title": "ADAC",
+            "img": "/company-logos/logos1x/de002.png?ver=gz30i",
+            "imgsrcset": "/company-logos/logos1x/de002.png?ver=gz30i 1x, /company-logos/logos2x/de002.png?ver=gz30i 2x, /company-logos/logos3x/de002.png?ver=gz30i 3x"
+        },
+        {
+            "id": "comp003",
+            "title": "ADLER",
+            "img": "/company-logos/logos1x/de003.png?ver=gz30i",
+            "imgsrcset": "/company-logos/logos1x/de003.png?ver=gz30i 1x, /company-logos/logos2x/de003.png?ver=gz30i 2x, /company-logos/logos3x/de003.png?ver=gz30i 3x"
+        },
+        {
+            "id": "comp004",
+            "title": "ADVOCARD",
+            "img": "/company-logos/logos1x/de004.png?ver=gz30i",
+            "imgsrcset": "/company-logos/logos1x/de004.png?ver=gz30i 1x, /company-logos/logos2x/de004.png?ver=gz30i 2x, /company-logos/logos3x/de004.png?ver=gz30i 3x"
+        },
+        {
+            "id": "comp006",
+            "title": "AGILA",
+            "img": "/company-logos/logos1x/de006.png?ver=gz30i",
+            "imgsrcset": "/company-logos/logos1x/de006.png?ver=gz30i 1x, /company-logos/logos2x/de006.png?ver=gz30i 2x, /company-logos/logos3x/de006.png?ver=gz30i 3x"
+        },
+        {
+            "id": "comp008",
+            "title": "Allcura",
+            "img": "/company-logos/logos1x/de008.png?ver=gz30i",
+            "imgsrcset": "/company-logos/logos1x/de008.png?ver=gz30i 1x, /company-logos/logos2x/de008.png?ver=gz30i 2x, /company-logos/logos3x/de008.png?ver=gz30i 3x"
+        },
+        {
+            "id": "comp010",
+            "title": "Allianz",
+            "img": "/company-logos/logos1x/de010.png?ver=gz30i",
+            "imgsrcset": "/company-logos/logos1x/de010.png?ver=gz30i 1x, /company-logos/logos2x/de010.png?ver=gz30i 2x, /company-logos/logos3x/de010.png?ver=gz30i 3x"
+        },
+        {
+            "id": "comp012",
+            "title": "ALTE LEIPZIGER",
+            "img": "/company-logos/logos1x/de012.png?ver=gz30i",
+            "imgsrcset": "/company-logos/logos1x/de012.png?ver=gz30i 1x, /company-logos/logos2x/de012.png?ver=gz30i 2x, /company-logos/logos3x/de012.png?ver=gz30i 3x"
+        },
+        {
+            "id": "comp013",
+            "title": "ALTE OLDENBURGER",
+            "img": "/company-logos/logos1x/de013.png?ver=gz30i",
+            "imgsrcset": "/company-logos/logos1x/de013.png?ver=gz30i 1x, /company-logos/logos2x/de013.png?ver=gz30i 2x, /company-logos/logos3x/de013.png?ver=gz30i 3x"
+        },
+        {
+            "id": "comp016",
+            "title": "AMMERLÄNDER",
+            "img": "/company-logos/logos1x/de016.png?ver=gz30i",
+            "imgsrcset": "/company-logos/logos1x/de016.png?ver=gz30i 1x, /company-logos/logos2x/de016.png?ver=gz30i 2x, /company-logos/logos3x/de016.png?ver=gz30i 3x"
+        },
+        {
+            "id": "comp018",
+            "title": "ARAG",
+            "img": "/company-logos/logos1x/de018.png?ver=gz30i",
+            "imgsrcset": "/company-logos/logos1x/de018.png?ver=gz30i 1x, /company-logos/logos2x/de018.png?ver=gz30i 2x, /company-logos/logos3x/de018.png?ver=gz30i 3x"
+        },
+        {
+            "id": "comp019",
+            "title": "ASSTEL",
+            "img": "/company-logos/logos1x/de019.png?ver=gz30i",
+            "imgsrcset": "/company-logos/logos1x/de019.png?ver=gz30i 1x, /company-logos/logos2x/de019.png?ver=gz30i 2x, /company-logos/logos3x/de019.png?ver=gz30i 3x"
+        },
+        {
+            "id": "comp020",
+            "title": "Athene Versicherung",
+            "img": "/company-logos/logos1x/de020.png?ver=gz30i",
+            "imgsrcset": "/company-logos/logos1x/de020.png?ver=gz30i 1x, /company-logos/logos2x/de020.png?ver=gz30i 2x, /company-logos/logos3x/de020.png?ver=gz30i 3x"
+        }
+    ],
+    "categories": [
+        {
+            "id": "cat001",
+            "title": "Bauversicherung",
+            "img": "/category-logos/logos1x/cde001.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde001.png?ver=gz30i 1x, /category-logos/logos2x/cde001.png?ver=gz30i 2x, /category-logos/logos3x/cde001.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat002",
+            "title": "Berufshaftpflicht",
+            "img": "/category-logos/logos1x/cde002.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde002.png?ver=gz30i 1x, /category-logos/logos2x/cde002.png?ver=gz30i 2x, /category-logos/logos3x/cde002.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat003",
+            "title": "Berufsunfähigkeit",
+            "img": "/category-logos/logos1x/cde003.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde003.png?ver=gz30i 1x, /category-logos/logos2x/cde003.png?ver=gz30i 2x, /category-logos/logos3x/cde003.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat004",
+            "title": "Bootsversicherung",
+            "img": "/category-logos/logos1x/cde004.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde004.png?ver=gz30i 1x, /category-logos/logos2x/cde004.png?ver=gz30i 2x, /category-logos/logos3x/cde004.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat005",
+            "title": "Dienstunfähigkeit",
+            "img": "/category-logos/logos1x/cde005.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde005.png?ver=gz30i 1x, /category-logos/logos2x/cde005.png?ver=gz30i 2x, /category-logos/logos3x/cde005.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat006",
+            "title": "Elektronik",
+            "img": "/category-logos/logos1x/cde006.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde006.png?ver=gz30i 1x, /category-logos/logos2x/cde006.png?ver=gz30i 2x, /category-logos/logos3x/cde006.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat007",
+            "title": "Glasversicherung",
+            "img": "/category-logos/logos1x/cde007.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde007.png?ver=gz30i 1x, /category-logos/logos2x/cde007.png?ver=gz30i 2x, /category-logos/logos3x/cde007.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat008",
+            "title": "Haus- \u0026 Grundstückshaftpflicht",
+            "img": "/category-logos/logos1x/cde008.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde008.png?ver=gz30i 1x, /category-logos/logos2x/cde008.png?ver=gz30i 2x, /category-logos/logos3x/cde008.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat009",
+            "title": "Hausrat",
+            "img": "/category-logos/logos1x/cde009.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde009.png?ver=gz30i 1x, /category-logos/logos2x/cde009.png?ver=gz30i 2x, /category-logos/logos3x/cde009.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat010",
+            "title": "Hundehaftpflicht",
+            "img": "/category-logos/logos1x/cde010.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde010.png?ver=gz30i 1x, /category-logos/logos2x/cde010.png?ver=gz30i 2x, /category-logos/logos3x/cde010.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat011",
+            "title": "Kapitalleben",
+            "img": "/category-logos/logos1x/cde011.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde011.png?ver=gz30i 1x, /category-logos/logos2x/cde011.png?ver=gz30i 2x, /category-logos/logos3x/cde011.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat012",
+            "title": "KFZ - Motorräder",
+            "img": "/category-logos/logos1x/cde012.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde012.png?ver=gz30i 1x, /category-logos/logos2x/cde012.png?ver=gz30i 2x, /category-logos/logos3x/cde012.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat013",
+            "title": "KFZ - private PKW",
+            "img": "/category-logos/logos1x/cde013.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde013.png?ver=gz30i 1x, /category-logos/logos2x/cde013.png?ver=gz30i 2x, /category-logos/logos3x/cde013.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat014",
+            "title": "KFZ - Wohnmobile",
+            "img": "/category-logos/logos1x/cde014.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde014.png?ver=gz30i 1x, /category-logos/logos2x/cde014.png?ver=gz30i 2x, /category-logos/logos3x/cde014.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat015",
+            "title": "KFZ - Anhänger",
+            "img": "/category-logos/logos1x/cde015.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde015.png?ver=gz30i 1x, /category-logos/logos2x/cde015.png?ver=gz30i 2x, /category-logos/logos3x/cde015.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat016",
+            "title": "Krankentagegeld",
+            "img": "/category-logos/logos1x/cde016.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde016.png?ver=gz30i 1x, /category-logos/logos2x/cde016.png?ver=gz30i 2x, /category-logos/logos3x/cde016.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat017",
+            "title": "Krankenvollversicherung",
+            "img": "/category-logos/logos1x/cde017.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde017.png?ver=gz30i 1x, /category-logos/logos2x/cde017.png?ver=gz30i 2x, /category-logos/logos3x/cde017.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat018",
+            "title": "Krankenzusatz",
+            "img": "/category-logos/logos1x/cde018.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde018.png?ver=gz30i 1x, /category-logos/logos2x/cde018.png?ver=gz30i 2x, /category-logos/logos3x/cde018.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat019",
+            "title": "Pferdehaftpflicht",
+            "img": "/category-logos/logos1x/cde019.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde019.png?ver=gz30i 1x, /category-logos/logos2x/cde019.png?ver=gz30i 2x, /category-logos/logos3x/cde019.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat020",
+            "title": "Pflegezusatz",
+            "img": "/category-logos/logos1x/cde020.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde020.png?ver=gz30i 1x, /category-logos/logos2x/cde020.png?ver=gz30i 2x, /category-logos/logos3x/cde020.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat021",
+            "title": "Privathaftpflicht",
+            "img": "/category-logos/logos1x/cde021.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde021.png?ver=gz30i 1x, /category-logos/logos2x/cde021.png?ver=gz30i 2x, /category-logos/logos3x/cde021.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat022",
+            "title": "Rechtsschutz",
+            "img": "/category-logos/logos1x/cde022.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde022.png?ver=gz30i 1x, /category-logos/logos2x/cde022.png?ver=gz30i 2x, /category-logos/logos3x/cde022.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat023",
+            "title": "Reisekranken",
+            "img": "/category-logos/logos1x/cde023.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde023.png?ver=gz30i 1x, /category-logos/logos2x/cde023.png?ver=gz30i 2x, /category-logos/logos3x/cde023.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat024",
+            "title": "Reiseversicherung",
+            "img": "/category-logos/logos1x/cde024.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde024.png?ver=gz30i 1x, /category-logos/logos2x/cde024.png?ver=gz30i 2x, /category-logos/logos3x/cde024.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat025",
+            "title": "Rente",
+            "img": "/category-logos/logos1x/cde025.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde025.png?ver=gz30i 1x, /category-logos/logos2x/cde025.png?ver=gz30i 2x, /category-logos/logos3x/cde025.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat026",
+            "title": "Riesterrente",
+            "img": "/category-logos/logos1x/cde026.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde026.png?ver=gz30i 1x, /category-logos/logos2x/cde026.png?ver=gz30i 2x, /category-logos/logos3x/cde026.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat027",
+            "title": "Risikoleben",
+            "img": "/category-logos/logos1x/cde027.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde027.png?ver=gz30i 1x, /category-logos/logos2x/cde027.png?ver=gz30i 2x, /category-logos/logos3x/cde027.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat028",
+            "title": "Sonstiges",
+            "img": "/category-logos/logos1x/cde028.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde028.png?ver=gz30i 1x, /category-logos/logos2x/cde028.png?ver=gz30i 2x, /category-logos/logos3x/cde028.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat029",
+            "title": "Sterbegeld",
+            "img": "/category-logos/logos1x/cde029.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde029.png?ver=gz30i 1x, /category-logos/logos2x/cde029.png?ver=gz30i 2x, /category-logos/logos3x/cde029.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat030",
+            "title": "Tierleben /-kranken",
+            "img": "/category-logos/logos1x/cde030.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde030.png?ver=gz30i 1x, /category-logos/logos2x/cde030.png?ver=gz30i 2x, /category-logos/logos3x/cde030.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat031",
+            "title": "Unfall",
+            "img": "/category-logos/logos1x/cde031.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde031.png?ver=gz30i 1x, /category-logos/logos2x/cde031.png?ver=gz30i 2x, /category-logos/logos3x/cde031.png?ver=gz30i 3x"
+        },
+        {
+            "id": "cat032",
+            "title": "Wohngebäude",
+            "img": "/category-logos/logos1x/cde032.png?ver=gz30i",
+            "imgsrcset": "/category-logos/logos1x/cde032.png?ver=gz30i 1x, /category-logos/logos2x/cde032.png?ver=gz30i 2x, /category-logos/logos3x/cde032.png?ver=gz30i 3x"
+        }
+    ]
+}
